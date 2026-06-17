@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// 测试
+
 int main() {
     string s, t;
     while (cin >> s) {
